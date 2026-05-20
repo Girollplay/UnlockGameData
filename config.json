@@ -17,12 +17,12 @@
   ],
   "downloads": [
     {
-      "id": "MathQuiz-1",
-      "name": "MathQuiz",
-      "language": "en",
-      "description": "Contains Questions.",
+      "id": "Info2-1",
+      "name": "Info 2: Komplexität & Algorithmen",
+      "language": "de",
+      "description": "Dieses Quiz behandelt Landau-Symbole (Asymptotische Notation), Abstrakte Datentypen (ADT) und die Korrektheitsbeweise von Algorithmen mittels Schleifeninvarianten.",
       "version": "1",
-      "icon": "https://th.bing.com/th/id/OIP.nBVTLpL1rCTFuH_3QWz8PAHaFP?w=270&h=191&c=7&r=0&o=7&pid=1.7&rm=3",
+      "icon": "https://informatik.mygymer.ch/m24b/assets/img/komplexitaet-vergleich.f4e3f7b2.png",
       "download_url": "https://quizlock.giroll.de/quizes/mathquiz_1.json",
       "file_size_bytes": 4322
     }
