@@ -1,0 +1,143 @@
+[
+    {
+        "answers": [
+            "∀ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) \u003c C ·g(x)",
+            "∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) ≤ C · g(x)",
+            "∃ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x)",
+            "∃ c \u003e 0 ∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x) ≤ C · g(x)",
+            "∀ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) \u003c f(x)"
+        ],
+        "category": "Info 2",
+        "correctCount": 4,
+        "correctIndices": [
+            0
+        ],
+        "difficultyLevel": 1,
+        "id": "0f35d0c3-4559-4703-9d1b-81a6140708b4",
+        "lastAsked": 1779205794665,
+        "position": 0,
+        "question": "für x → ∞ gilt welche Formel bei f ∈ o(g):",
+        "wrongCount": 4
+    },
+    {
+        "answers": [
+            "∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) ≤ C · g(x)",
+            "∀ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) \u003c C · g(x)",
+            "∃ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x)",
+            "∃ c \u003e 0 ∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x) ≤ C · g(x)",
+            "∀ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) \u003c f(x)"
+        ],
+        "category": "Info 2",
+        "correctCount": 2,
+        "correctIndices": [
+            0
+        ],
+        "difficultyLevel": 2,
+        "id": "3ce107f2-611b-4d62-ae10-9da4a7e49df9",
+        "lastAsked": 1779178671449,
+        "position": 0,
+        "question": "für x → ∞ gilt welche Formel bei f ∈ O(g):",
+        "wrongCount": 0
+    },
+    {
+        "answers": [
+            "∃ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x)",
+            "∀ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) \u003c C · g(x)",
+            "∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) ≤ C · g(x)",
+            "∃ c \u003e 0 ∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x) ≤ C · g(x)",
+            "∀ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) \u003c f(x)"
+        ],
+        "category": "Info 2",
+        "correctCount": 3,
+        "correctIndices": [
+            0
+        ],
+        "difficultyLevel": 3,
+        "id": "ec249c8b-597f-4852-ab5c-92f2231dd827",
+        "lastAsked": 1779187591748,
+        "position": 0,
+        "question": "für x → ∞ gilt welche Formel bei f ∈ Ω(g):",
+        "wrongCount": 0
+    },
+    {
+        "answers": [
+            "∀ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) \u003c f(x)",
+            "∀ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) \u003c C · g(x)",
+            "∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) ≤ C · g(x)",
+            "∃ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x)",
+            "∃ c \u003e 0 ∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x) ≤ C · g(x)"
+        ],
+        "category": "Info 2",
+        "correctCount": 2,
+        "correctIndices": [
+            0
+        ],
+        "difficultyLevel": 2,
+        "id": "1d3add75-81f2-4134-af28-db0bcf78abef",
+        "lastAsked": 1779178886293,
+        "position": 0,
+        "question": "für x → ∞ gilt welche Formel bei f ∈ ω(g):",
+        "wrongCount": 0
+    },
+    {
+        "answers": [
+            "∃ c \u003e 0 ∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x) ≤ C · g(x)",
+            "∀ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) \u003c C · g(x)",
+            "∃ C \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: f(x) ≤ C · g(x)",
+            "∃ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) ≤ f(x)",
+            "∀ c \u003e 0 ∃ x₀ \u003e 0 ∀ x \u003e x₀: c · g(x) \u003c f(x)"
+        ],
+        "category": "Info 2",
+        "correctCount": 2,
+        "correctIndices": [
+            0
+        ],
+        "difficultyLevel": 2,
+        "id": "ae51c598-ab28-4a09-be57-bda1c397ae69",
+        "lastAsked": 1779183083474,
+        "position": 0,
+        "question": "für x → ∞ gilt welche Formel bei f ∈ Θ(g):",
+        "wrongCount": 0
+    },
+    {
+        "answers": [
+            "Abstrakter Datentyp",
+            "Array Definition Typ",
+            "Algorithmus zur Sortierung",
+            "konkrete Implementierung in Java",
+            "Speicheradresse einer Variable"
+        ],
+        "category": "Info 2",
+        "correctCount": 3,
+        "correctIndices": [
+            0
+        ],
+        "difficultyLevel": 3,
+        "id": "3ab4df60-eeec-43bc-9fe9-a134eebed424",
+        "lastAsked": 1779186173687,
+        "position": 0,
+        "question": "Was bedeutet ADT?",
+        "wrongCount": 0
+    },
+    {
+        "answers": [
+            "Eignung →Initialisierung → Aufrechterhaltung → Terminierung",
+            "Eignung →Initialisierung → Laufzeitanalyse → Terminierung",
+            "Speicheroptimierung → Initialisierung → Rekursion",
+            "Anfang → Parallelisierung → Terminierung → Initialisierung",
+            "Eignung →Rekursion → Speicheroptimierung → Laufzeitanalyse",
+            "Beginn →Terminierung → Parallelisierung → Speicheroptimierung"
+        ],
+        "category": "Info 2",
+        "correctCount": 3,
+        "correctIndices": [
+            0
+        ],
+        "difficultyLevel": 3,
+        "id": "899eae64-73c6-45e9-9ec6-8255c007f832",
+        "lastAsked": 1779185914634,
+        "position": 0,
+        "question": "Welche Schritte sind notwendig, um die Korrektheit mit einer Schleifeninvariante zu beweisen?",
+        "wrongCount": 0
+    }
+]
