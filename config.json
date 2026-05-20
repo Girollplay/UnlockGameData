@@ -9,8 +9,8 @@
     },
     {
       "id": "force_update_v1_1",
-      "target_versions": ["1"],
-      "action": "INFO",
+      "target_versions": ["5"],
+      "action": "BLOCK",
       "title": "Update zwingend erforderlich",
       "message": "Es steht ein wichtiges Sicherheitsupdate bereit. Bitte lade dir die neueste Version herunter, um weiterspielen zu können."
     }
