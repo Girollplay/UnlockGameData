@@ -3,14 +3,14 @@
     {
       "id": "bug_critical_v1_0_0",
       "target_versions": ["4", "5"],
-      "action": "INFO",
+      "action": "BLOCK",
       "title": "Kritischer Installationsfehler",
       "message": "Diese Version leidet unter einem System-Konflikt. Bitte deinstalliere die App via 'adb uninstall --user all de.giroll.unlockgame' und installiere die neueste Version."
     },
     {
       "id": "force_update_v1_1",
       "target_versions": ["5"],
-      "action": "BLOCK",
+      "action": "INFO",
       "title": "Update zwingend erforderlich",
       "message": "Es steht ein wichtiges Sicherheitsupdate bereit. Bitte lade dir die neueste Version herunter, um weiterspielen zu können."
     }
