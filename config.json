@@ -23,7 +23,17 @@
       "description": "Dieses Quiz behandelt Landau-Symbole (Asymptotische Notation), Abstrakte Datentypen (ADT) und die Korrektheitsbeweise von Algorithmen mittels Schleifeninvarianten.",
       "version": "1",
       "icon": "https://informatik.mygymer.ch/m24b/assets/img/komplexitaet-vergleich.f4e3f7b2.png",
-      "download_url": "https://quizlock.giroll.de/quizes/mathquiz_1.json",
+      "download_url": "https://quizlock.giroll.de/quizes/info2_1.json",
+      "file_size_bytes": 4322
+    },
+    {
+      "id": "quiz_mobilitaet_de",
+      "name": "Soziale Mobilität – Fachbegriffe",
+      "language": "de",
+      "description": "Dieses Quiz deckt die zentralen Konzepte der sozialen Mobilität ab, darunter verschiedene Mobilitätsformen, statistische Erhebungsmethoden und soziologische Fachbegriffe.",
+      "version": "1",
+      "icon": "https://th.bing.com/th/id/R.442cf47e8bdcbe0c35f4d3506b0490a3?rik=oSxk6xRLDalXkw&pid=ImgRaw&r=0",
+      "download_url": "https://quizlock.giroll.de/quizes/quiz_mobilitaet_de.json",
       "file_size_bytes": 4322
     }
   ]
