@@ -1,0 +1,36 @@
+{
+  "emergency_rules": [
+    {
+      "id": "bug_critical_v1_0_0",
+      "target_versions": ["1.0.0", "1.0.1-beta"],
+      "action": "BLOCK_APP",
+      "title": "Kritischer Installationsfehler",
+      "message": "Diese Version leidet unter einem System-Konflikt. Bitte deinstalliere die App via 'adb uninstall --user all de.giroll.unlockgame' und installiere die neueste Version."
+    },
+    {
+      "id": "force_update_v1_1",
+      "target_versions": ["1.1.0", "1.1.1", "1.1.2"],
+      "action": "FORCE_UPDATE",
+      "title": "Update zwingend erforderlich",
+      "message": "Es steht ein wichtiges Sicherheitsupdate bereit. Bitte lade dir die neueste Version herunter, um weiterspielen zu können.",
+      "update_url": "https://deine-domain.de/downloads/latest.apk"
+    },
+    {
+      "id": "warning_server_maintenance",
+      "target_versions": ["all"],
+      "action": "SHOW_WARNING",
+      "title": "Server-Wartungsarbeiten",
+      "message": "Hinweis: Unsere Download-Server ziehen gerade um. Es kann beim Laden von Zusatzleveln vereinzelt zu Fehlern kommen."
+    }
+  ],
+  "downloads": [
+    {
+      "id": "main_game_assets",
+      "name": "Basis-Spieldaten",
+      "description": "Enthält die grundlegenden Texturen, Sounds und Level-Dateien.",
+      "version": "2.1.0",
+      "download_url": "https://deine-domain.de/assets/main_assets_v2.zip",
+      "file_size_mb": 42.5
+    }
+  ]
+}
