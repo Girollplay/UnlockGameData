@@ -2,34 +2,28 @@
   "emergency_rules": [
     {
       "id": "bug_critical_v1_0_0",
-      "target_versions": ["1.0.0", "1.0.1-beta"],
-      "action": "BLOCK_APP",
+      "target_versions": ["4", "5"],
+      "action": "BLOCK",
       "title": "Kritischer Installationsfehler",
       "message": "Diese Version leidet unter einem System-Konflikt. Bitte deinstalliere die App via 'adb uninstall --user all de.giroll.unlockgame' und installiere die neueste Version."
     },
     {
       "id": "force_update_v1_1",
-      "target_versions": ["1.1.0", "1.1.1", "1.1.2"],
-      "action": "FORCE_UPDATE",
+      "target_versions": ["1"],
+      "action": "INFO",
       "title": "Update zwingend erforderlich",
-      "message": "Es steht ein wichtiges Sicherheitsupdate bereit. Bitte lade dir die neueste Version herunter, um weiterspielen zu können.",
-      "update_url": "https://deine-domain.de/downloads/latest.apk"
-    },
-    {
-      "id": "warning_server_maintenance",
-      "target_versions": ["all"],
-      "action": "SHOW_WARNING",
-      "title": "Server-Wartungsarbeiten",
-      "message": "Hinweis: Unsere Download-Server ziehen gerade um. Es kann beim Laden von Zusatzleveln vereinzelt zu Fehlern kommen."
+      "message": "Es steht ein wichtiges Sicherheitsupdate bereit. Bitte lade dir die neueste Version herunter, um weiterspielen zu können."
     }
   ],
   "downloads": [
     {
-      "id": "main_game_assets",
-      "name": "Basis-Spieldaten",
-      "description": "Enthält die grundlegenden Texturen, Sounds und Level-Dateien.",
-      "version": "2.1.0",
-      "download_url": "https://deine-domain.de/assets/main_assets_v2.zip",
+      "id": "MathQuiz-1",
+      "name": "MathQuiz",
+      "language": "en",
+      "description": "Contains Questions.",
+      "version": "1",
+      "icon": "https://deine-domain.de/assets/main_assets_v2.png"
+      "download_url": "https://deine-domain.de/assets/main_assets_v2.json",
       "file_size_mb": 42.5
     }
   ]
