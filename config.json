@@ -22,7 +22,7 @@
       "language": "en",
       "description": "Contains Questions.",
       "version": "1",
-      "icon": "https://deine-domain.de/assets/main_assets_v2.png"
+      "icon": "https://deine-domain.de/assets/main_assets_v2.png",
       "download_url": "https://deine-domain.de/assets/main_assets_v2.json",
       "file_size_mb": 42.5
     }
