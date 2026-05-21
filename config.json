@@ -9,9 +9,9 @@
     },
     {
       "id": "force_update_v1_1",
-      "target_versions": ["5"],
+      "target_versions": ["6"],
       "action": "INFO",
-      "title": "Update zwingend erforderlich",
+      "title": "Du doof",
       "message": "Bitte lade dir die neueste Version herunter, um weiterspielen zu können."
     }
   ],
