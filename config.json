@@ -42,9 +42,9 @@
       "language": "de",
       "description": "Lernen Sie Allgemeinwissen",
       "version": "1",
-      "icon": "",
+      "icon": "null",
       "download_url": "https://quizlock.giroll.de/quizes/quiz_mobilitaet_de.json",
-      "file_size_bytes": 16504000000000000
+      "file_size_bytes": 165040000000000
     }
   ]
 }
