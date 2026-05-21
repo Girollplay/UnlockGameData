@@ -8,11 +8,11 @@
       "message": "Diese Version leidet unter einem System-Konflikt. Bitte deinstalliere die App und installiere die neueste Version."
     },
     {
-      "id": "force_update_v1_1",
-      "target_versions": ["1"],
-      "action": "BLOCK",
-      "title": "Update Required!",
-      "message": "Bitte lade dir die neueste Version herunter, um weiterspielen zu können."
+    "id": "force_update",
+    "target_versions": [5,6],
+    "action": "INFO",
+    "title": "Update available!",
+    "message": "A new version is available! Please update via the Play Store to enjoy the latest features and important performance improvements."
     }
   ],
   "downloads": [
