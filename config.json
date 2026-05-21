@@ -11,7 +11,7 @@
       "id": "force_update_v1_1",
       "target_versions": ["1"],
       "action": "BLOCK",
-      "title": "Du doof",
+      "title": "Update Required!",
       "message": "Bitte lade dir die neueste Version herunter, um weiterspielen zu können."
     }
   ],
