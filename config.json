@@ -2,7 +2,7 @@
   "emergency_rules": [
     {
       "id": "bug_critical_v1_0_0",
-      "target_versions": ["1"],
+      "target_versions": [1],
       "action": "BLOCK",
       "title": "Kritischer Installationsfehler",
       "message": "Diese Version leidet unter einem System-Konflikt. Bitte deinstalliere die App und installiere die neueste Version."
