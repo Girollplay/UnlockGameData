@@ -9,7 +9,7 @@
     },
     {
     "id": "update_information",
-    "target_versions": ["1","2","3","4"],
+    "target_versions": ["1","2","3","4","5"],
     "action": "INFO",
     "title": "Update available!",
     "message": "A new version is available! Please update via the Play Store to enjoy the latest features and important performance improvements."
