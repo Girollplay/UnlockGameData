@@ -38,12 +38,12 @@
     },
 {
       "id": "Allgemeinwissen-1",
-      "name": "Allgemeinwissen 1",
+      "name": "Wahrscheinlichkeits Rechnung 1",
       "language": "de",
-      "description": "Lernen Sie Allgemeinwissen",
+      "description": "Lernen Sie Wahrscheinlichkeits Rechnung",
       "version": "1",
       "icon": null,
-      "download_url": "https://quizlock.giroll.de/quizes/quiz_mobilitaet_de.json",
+      "download_url": "https://quizlock.giroll.de/quizes/quiz_wahrscheinlichkeit_1_de.json",
       "file_size_bytes": 165040000000000
     }
   ]
